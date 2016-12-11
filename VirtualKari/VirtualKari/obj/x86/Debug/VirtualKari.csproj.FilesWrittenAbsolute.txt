@@ -1,0 +1,14 @@
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/actool/partial-info.plist
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/actool/asset-manifest.plist
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/actool/bundle/AppIcon.icns
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/ibtool-manifests/MainMenu.nib
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/ibtool-manifests/MainWindow.nib
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/ibtool-manifests/link
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/ibtool-link/MainMenu.nib
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/ibtool-link/MainWindow.nib
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/bin/Debug/VirtualKari.exe.mdb
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/bin/Debug/VirtualKari.exe
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/VirtualKari.exe
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/VirtualKari.exe.mdb
+/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs

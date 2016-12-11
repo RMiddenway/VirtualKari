@@ -1,0 +1,2 @@
+2016-12-11 15:04:12.460 VirtualKari[1885:100226] Failed to connect (FilePath) outlet from (MainWindowController) to (NSPathControl): missing setter or instance variable
+2016-12-11 15:04:12.461 VirtualKari[1885:100226] Failed to connect (KeepButton) outlet from (MainWindowController) to (NSButton): missing setter or instance variable

@@ -1,0 +1,21 @@
+# Version: 2.10.0.113 (cycle8: cbea5f8)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/2.10.0.113/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/2.10.0.113/lib/mmp/mmp.exe \
+	/verbose \
+	/debug \
+	/output:/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/bin/Debug/ \
+	/name:VirtualKari \
+	/profile:4.5 \
+	/arch:x86_64 \
+	--http-message-handler=HttpClientHandler \
+	/minos=10.7 \
+	/nolink \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/Xamarin.Mac.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/mscorlib.dll \
+	/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/bin/Debug/VirtualKari.exe \
+	/sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/rogermiddenway/Projects/VirtualKari/VirtualKari/obj/x86/Debug/mmp-cache \

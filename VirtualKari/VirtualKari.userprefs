@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{EFBBFAF4-0FA6-4723-8347-3D8C744E9165}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VirtualKari/MainWindow.cs">
+    <Files>
+      <File FileName="VirtualKari/AppDelegate.cs" Line="21" Column="57" />
+      <File FileName="VirtualKari/MainWindowController.designer.cs" Line="1" Column="1" />
+      <File FileName="VirtualKari/MainWindowController.cs" Line="79" Column="3" />
+      <File FileName="VirtualKari/DownloadsFolderSearch.cs" Line="104" Column="44" />
+      <File FileName="VirtualKari/Main.cs" Line="10" Column="29" />
+      <File FileName="VirtualKari/FilePathAdjuster.cs" Line="23" Column="1" />
+      <File FileName="VirtualKari/Item.cs" Line="72" Column="8" />
+      <File FileName="VirtualKari/MainWindow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.VirtualKari PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
